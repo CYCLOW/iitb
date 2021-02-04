@@ -1,2 +1,2 @@
 # iitb
-Python Scripts And Many More
+Python Scripts.
